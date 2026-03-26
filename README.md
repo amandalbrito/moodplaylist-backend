@@ -27,3 +27,5 @@ python app.py
 
 # Abrir frontend no navegador
 http://localhost:550
+
+<img width="272" height="479" alt="home_MoodPlaylist" src="https://github.com/user-attachments/assets/0ffddd95-2e1b-43ce-87f9-78b0ff84ae74" />
